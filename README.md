@@ -3,5 +3,7 @@ Solusi persamaan Poisson sederhana untuk laju aliran panas menggunakan metode Fi
 
 Download semua file di atas dan buka file main.m
 
+Persamaan Poisson 1D -u'' = f(x)
+
 Syarat batas dalam kasus ini adalah T(0,t) = 40 dan T(10,t) = 200.
-Panjang batang 1D adalah 10.
+Panjang batang 1D adalah 10. Fungsi f(x)=10.
